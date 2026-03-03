@@ -1,0 +1,85 @@
+/* Fonts.css - Tất cả font chữ cho web báo tường */
+
+/* UTM A&S Signwriter */
+@font-face {
+  font-family: "UTM AS Signwriter";
+  src: url("../fonts/UTM-AS-Signwriter.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* UTM Aristote */
+@font-face {
+  font-family: "UTM Aristote";
+  src: url("../fonts/UTM-Aristote.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SVN-Dancing Script */
+@font-face {
+  font-family: "SVN Dancing Script";
+  src: url("../fonts/SVN-DancingScript.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* UTM ViceroyJF */
+@font-face {
+  font-family: "UTM ViceroyJF";
+  src: url("../fonts/UTM-ViceroyJF.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* UTM Bustamalaka */
+@font-face {
+  font-family: "UTM Bustamalaka";
+  src: url("../fonts/UTM-Bustamalaka.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SVN-Segoe Script */
+@font-face {
+  font-family: "SVN Segoe Script";
+  src: url("../fonts/SVN-SegoeScript.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SVN-Bradley Hand */
+@font-face {
+  font-family: "SVN Bradley Hand";
+  src: url("../fonts/SVN-BradleyHand.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SVN-Segoe Print */
+@font-face {
+  font-family: "SVN Segoe Print";
+  src: url("../fonts/SVN-SegoePrint.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SVN-Sensation */
+@font-face {
+  font-family: "SVN Sensation";
+  src: url("../fonts/SVN-Sensation.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Google Fonts - Quicksand & Playfair Display */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap");
