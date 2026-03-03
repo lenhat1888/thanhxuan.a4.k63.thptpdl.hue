@@ -2,7 +2,7 @@
 
 /* UTM A&S Signwriter */
 @font-face {
-  font-family: "UTM AS Signwriter";
+  font-family: "UTM A&S Signwriter";
   src: url("../fonts/UTM-AS-Signwriter.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -20,7 +20,7 @@
 
 /* SVN-Dancing Script */
 @font-face {
-  font-family: "SVN Dancing Script";
+  font-family: "SVN-Dancing Script";
   src: url("../fonts/SVN-DancingScript.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -47,7 +47,7 @@
 
 /* SVN-Segoe Script */
 @font-face {
-  font-family: "SVN Segoe Script";
+  font-family: "SVN-Segoe Script";
   src: url("../fonts/SVN-SegoeScript.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -56,7 +56,7 @@
 
 /* SVN-Bradley Hand */
 @font-face {
-  font-family: "SVN Bradley Hand";
+  font-family: "SVN-Bradley Hand";
   src: url("../fonts/SVN-BradleyHand.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -65,7 +65,7 @@
 
 /* SVN-Segoe Print */
 @font-face {
-  font-family: "SVN Segoe Print";
+  font-family: "SVN-Segoe Print";
   src: url("../fonts/SVN-SegoePrint.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -74,8 +74,8 @@
 
 /* SVN-Sensation */
 @font-face {
-  font-family: "SVN Sensation";
-  src: url("../fonts/SVN-Sensation.ttf") format("truetype");
+  font-family: "SVN-Sansation";
+  src: url("../fonts/SVN-Sansation.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
